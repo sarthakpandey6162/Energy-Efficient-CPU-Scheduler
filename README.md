@@ -116,43 +116,12 @@ Multiplying them gives a simple, understandable, relative estimate of energy usa
 
 Perfect for OS classroom projects.
 
-🧾 GitHub Revision Tracking (Required for Assignment)
-
-This repository contains multiple commits showing step-by-step development:
-
-init: added simple scheduler source file
-
-docs: added explanation comments
-
-feat: improved console output format
-
-refactor: better Gantt chart formatting
-
-test: added testcases file
-
-docs: added README file
-
-docs: added final report
-
-Branches:
-
-main
-
-dev (with minor edits, later merged)
-
-Screenshots of commit history are included in report.pdf.
-
-🌐 Assignment Source
-
-This project corresponds to Topic 14 – Energy-Efficient CPU Scheduling Algorithm
-from the official LPU OS project list.
-Source PDF path: /mnt/data/PMC.pdf
 
 🛡️ Academic Honesty
 
 This project is written and understood by the authors.
 AI tools were used only for guidance, not for full code generation.
-All logic, implementation, testing, and documentation are done by the students.
+All logic, implementation, testing, and documentation are done by the us.
 
 ❤️ Support / Doubts?
 
