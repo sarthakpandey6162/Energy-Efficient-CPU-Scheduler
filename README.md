@@ -1,5 +1,4 @@
-🌿 Energy-Efficient CPU Scheduler — C++
-Operating Systems (CSE316) Project — LPU
+🌿 Energy-Efficient CPU Scheduler
 
 Authors:
 👨‍💻 Sarthak Pandey
@@ -24,7 +23,7 @@ power_hint:
 
 3 → High power
 
-This scheduler is non-preemptive and easy to explain during viva.
+This scheduler is non-preemptive and easy
 
 🧠 Core Idea Behind the Algorithm
 
