@@ -6,14 +6,10 @@ Authors:
 
 🚀 Overview
 
-This project implements a simple, clean, and explainable Energy-Efficient CPU Scheduling Algorithm using C++.
+This project implements a simple and clean Energy-Efficient CPU Scheduling Algorithm using C++.
 It uses a very intuitive idea:
 
 score = burst_time × power_hint
-energy = burst_time × power_hint
-
-
-Lower score → more energy-efficient → scheduled first
 
 power_hint:
 
@@ -23,11 +19,15 @@ power_hint:
 
 3 → High power
 
+
+Lower score → more energy-efficient → scheduled first
+
+
 This scheduler is non-preemptive and easy
 
 🧠 Core Idea Behind the Algorithm
 
-We estimate the process’s “energy cost” using:
+We estimate the process’s energy demand using:
 
 🔸 Scheduling Score
 score = BT × PH
